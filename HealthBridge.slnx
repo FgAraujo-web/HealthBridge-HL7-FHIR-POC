@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="HealthBridge.Api/HealthBridge.Api.csproj" />
+  <Project Path="HealthBridge.Application/HealthBridge.Application.csproj" />
+  <Project Path="HealthBridge.Domain/HealthBridge.Domain.csproj" />
+  <Project Path="HealthBridge.Infrastructure/HealthBridge.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,42 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Compilação .NET
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Ficheiros temporários
+*.tmp
+*.log
+*.bak
+*.cache
+
+# Bases de dados locais
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
+
+# Configurações locais e segredos
+.env
+.env.*
+**/appsettings.Local.json
+**/appsettings.*.local.json
+**/secrets.json
+
+# Certificados e chaves privadas
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Ficheiros de publicação
+publish/
+artifacts/

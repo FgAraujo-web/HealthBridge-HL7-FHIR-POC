@@ -1,0 +1,6 @@
+@HealthBridge.Api_HostAddress = http://localhost:5250
+
+GET {{HealthBridge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
